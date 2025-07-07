@@ -235,12 +235,13 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
-.circle-img-span{
+.fa-stack.circle-img-span{
     width:auto;
     height:auto;
 }
 .circle-img-200{
     border-radius:100px;
+    border: 2px solid #ddd;
 }
 
 @media(min-width:768px) {
