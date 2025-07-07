@@ -235,6 +235,14 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.circle-img-span{
+    width:auto;
+    height:auto;
+}
+.circle-img-200{
+    border-radius:100px;
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
