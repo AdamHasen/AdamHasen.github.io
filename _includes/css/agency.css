@@ -214,6 +214,7 @@ fieldset[disabled] .btn-xl.active {
     -webkit-transition: all ease .35s;
     -moz-transition: all ease .35s;
     transition: all ease .35s;
+    text-shadow: black 1px 1px 2px;
 }
 
 .navbar-default .nav li a:hover,
