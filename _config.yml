@@ -47,7 +47,9 @@ social:
   - title: instagram
     url: https://www.instagram.com/hasen.3d/
   - title: github
-    url: http://github.com/AdamHasen/
+    url: https://github.com/AdamHasen/
+    - title: youtube
+    url: https://youtube.com/@Hasen.3D/
 
 # Postal address (add as many lines as necessary)
 address:
