@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Pulse Scanner
+subtitle: Prop
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2023-02-15
+img: pulse.png
+thumbnail: pulse-thumbnail.png
+alt: pulse scanner from Rainbow Six: Siege
+project-date: February 2023
+more: Instagram
+link: www.instagram.com/p/DB1N8J0RTih/
+category: Prop
+description: My Cardiac Sensor from Rainbow Six: Siege.Using tensorflow classiification and detection machine learning models, it detects people and super imposes graphics and effects from the game over the image which is displayed on the built in screen. The prop is a one-to-one scale and visual replica from the game, with all functionality except detection of persons behind walls.
 
 ---
