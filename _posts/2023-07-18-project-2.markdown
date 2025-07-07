@@ -4,8 +4,8 @@ subtitle: Cosplay/Prop
 layout: default
 modal-id: 2
 date: 2023-07-18
-img: odradek.png
-thumbnail: odradek-thumbnail.png
+img: bridges.png
+thumbnail: bridges-thumbnail.png
 alt: Odradek from Death Stranding
 project-date: July 2023
 more: Instagram
