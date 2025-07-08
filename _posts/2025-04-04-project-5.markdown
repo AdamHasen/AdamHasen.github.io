@@ -1,0 +1,16 @@
+---
+title: Fireball Staff
+subtitle: Prop
+layout: default
+modal-id: 5
+date: 2025-04-04
+img: fireball.png
+thumbnail: fireball-thumbnail.png
+alt: pulse scanner from Rainbow Six Siege
+project-date: April 2025
+more: Instagram
+link: https://www.instagram.com/p/DIMSDGisxSy/
+category: Prop
+description: My Fireball Staff is actually a reservoir with a pump that fills the topper of the staff. A hidden button triggers the pump and red LEDs, the staff can then be tipped to dispense beverage.
+
+---
