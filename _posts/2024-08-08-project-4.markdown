@@ -7,7 +7,7 @@ date: 2024-08-08
 img: dubstep.png
 thumbnail: dubstep-thumbnail.png
 alt: The Dubstep Gun from Saints Row
-project-date: March 2024
+project-date: August 2024
 more: Instagram
 link: https://www.instagram.com/p/C-llvsyvnBp/
 category: Prop
