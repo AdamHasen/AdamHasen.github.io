@@ -1,0 +1,15 @@
+---
+title: Blood Torva Runescape
+subtitle: Cosplay/Prop
+layout: default
+modal-id: 6
+date: 2025-05-09
+img: torva.png
+thumbnail: torva-thumbnail.png
+alt: pulse scanner from Rainbow Six Siege
+project-date: May 2025
+more: Instagram
+link: https://www.instagram.com/stories/highlights/18043199717564394/
+category: Prop
+description: My most complex cospaly to date. A full set of the Blood Torva armor from Old School Runescape. Complete wiith chest and pauldron lights, as well as an infernal cape that displays the lava flowing pattern on a custom 1500 WS2812B LED Matrix.
+---
