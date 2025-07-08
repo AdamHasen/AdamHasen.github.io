@@ -1,5 +1,5 @@
 ---
-title: Blood Torva Runescape
+title: Runescape
 subtitle: Cosplay/Prop
 layout: default
 modal-id: 6
