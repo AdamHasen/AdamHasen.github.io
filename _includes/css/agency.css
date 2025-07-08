@@ -243,6 +243,9 @@ fieldset[disabled] .btn-xl.active {
     border-radius:100px;
     border: 2px solid #ddd;
 }
+.height-500{
+    max-height:500px;
+}
 
 @media(min-width:768px) {
     .navbar-default {
