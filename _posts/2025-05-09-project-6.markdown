@@ -13,5 +13,5 @@ more: Instagram
 link: https://www.instagram.com/stories/highlights/18043199717564394/
 category: Cosplay/Prop
 description: My most complex costume to date. A full set of the Blood Torva armor from Old School Runescape. Complete with chest and pauldron lights, an infernal cape that displays the animated lava flowing pattern on a custom 1500 WS2812B LED Matrix, and illuminated scythe with LED animations.
-breakdown: <a href="/pdf/runescape.pdf">Build Breakdown</a>
+breakdown: <a href="/pdf/runescape.pdf" target="_blank">Build Breakdown</a>
 ---
