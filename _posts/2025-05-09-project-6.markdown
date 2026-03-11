@@ -8,6 +8,7 @@ img: torva.png
 thumbnail: torva-thumbnail.png
 alt: Blood Torva from old school runescape
 project-date: May 2025
+project-time: 6 Weeks
 more: Instagram
 link: https://www.instagram.com/stories/highlights/18043199717564394/
 category: Cosplay/Prop
