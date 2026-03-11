@@ -8,6 +8,7 @@ img: bridges.png
 thumbnail: bridges-thumbnail.png
 alt: Odradek from Death Stranding
 project-date: July 2023
+project-time: 8 weeks
 more: Instagram
 link: https://www.instagram.com/p/C8YJWSesGMS/
 category: Prop
