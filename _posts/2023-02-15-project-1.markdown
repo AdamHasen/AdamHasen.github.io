@@ -8,6 +8,7 @@ img: pulse.png
 thumbnail: pulse-thumbnail.png
 alt: pulse scanner from Rainbow Six Siege
 project-date: February 2023
+project-time: 4 weeks
 more: Instagram
 link: https://www.instagram.com/p/DB1N8J0RTih/
 category: Prop
