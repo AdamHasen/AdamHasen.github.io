@@ -16,6 +16,13 @@
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered height-500" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
+                         <blockquote 
+  class="instagram-media" 
+  data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/{{ post.reel }}/" 
+  style="max-width:540px; min-width:326px; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+</blockquote> 
+
+
                             <div>{{ post.breakdown }}</div>
                             <ul class="list-inline item-details">
                                 <li>More:
@@ -38,4 +45,5 @@
             </div>
         </div>
     </div>
+<script async src="//www.instagram.com/embed.js"></script>
 {% endfor %}
