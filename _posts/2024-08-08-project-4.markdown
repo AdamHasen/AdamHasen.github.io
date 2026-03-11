@@ -13,6 +13,4 @@ more: Instagram
 link: https://www.instagram.com/p/C-llvsyvnBp/
 category: Prop
 description: My Dubstep gun from Saints Row is a faithful replica of the original. A meter long and nearly 20 lbs, designed from scratch in Fusion, it houses a custom built sound system boasting 110 decibels of output, along with fully sound reactive LED lights, two custom made EQ Visualizers, a functional ammeter, bluetooth connectivity, and a touch interface for playing local media, youtube, and spotify.
-breakdown: <iframe src=”https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDQzMTk5NzE3NTY0Mzk0?story_media_id=3608965924629204969_31035696416&igsh=NmdwNjQyYnl5em1s” width=”320″ height=”440″ frameborder=”0″ scrolling=”no” allowtransparency=”true”></iframe> 
-reel: C-llvsyvnBp
 ---
