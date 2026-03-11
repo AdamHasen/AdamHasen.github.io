@@ -8,6 +8,7 @@ img: magnaguard.png
 thumbnail: magnaguard-thumbnail.png
 alt: Magnaguard from Star Wars
 project-date: March 2024
+project-time: 5 Weeks
 more: Instagram
 link: https://www.instagram.com/p/C_88AuAPYbQ/
 category: Prop
